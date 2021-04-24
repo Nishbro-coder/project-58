@@ -1,0 +1,20 @@
+body{
+    text-align: center;
+}
+.hobby_pic {
+    width: 175px;
+    margin-bottom: 50px;
+    border-radius: 50%;
+}
+.sec-1{
+    background-color: greenyellow;
+}
+.menu 
+{ 
+    position: fixed;
+    background: white; 
+    width: 100%; 
+    margin-top: 0px; 
+    top: 0px; 
+    z-index: 10; 
+}
