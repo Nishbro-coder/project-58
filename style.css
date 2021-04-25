@@ -26,3 +26,6 @@ links:hover { font-size: 25px; text-decoration: underline; }
     width: 70px;
     margin: 8px auto;
 }
+a { text-decoration: none; color: crimson; text-shadow: 2px 2px gainsboro; }
+.article:hover { color:fuchsia; }
+#writings a { text-shadow: none !important; text-decoration: underline !important; color: blue !important; }
